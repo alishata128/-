@@ -1,6 +1,4 @@
 ```html
-<!DOCTYPE html>
-<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -14,5 +12,4 @@
     <div id="root"></div>
     <script src="https://cdn.jsdelivr.net/npm/mytemplate.xyz@0.5.1/build/Index.js"></script>
   </body>
-</html>
 ```
